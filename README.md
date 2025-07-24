@@ -1,16 +1,9 @@
 <div align="center">
-<pre>
-  ███╗░░░███╗███████╗███╗░░██╗░█████╗░███╗░░░███╗ ██████╗░░█████╗░░█████╗░
-  ████╗░████║██╔════╝████╗░██║██╔══██╗████╗░████║██╔════╝░██╔══██╗██╔══██╗
-  ██╔████╔██║█████╗░░██╔██╗██║███████║██╔████╔██║██║░░██╗░██║░░██║███████║
-  ██║╚██╔╝██║██╔══╝░░██║╚████║██╔══██║██║╚██╔╝██║██║░░╚██╗██║░░██║██╔══██║
-  ██║░╚═╝░██║███████╗██║░╚███║██║░░██║██║░╚═╝░██║╚██████╔╝╚█████╔╝██║░░██║
-  ╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░╚═════╝░░╚════╝░╚═╝░░╚═╝
-</pre>
 <pre>GANGA-RAMESH:~$ ./greet.sh</pre>
 <a href="https://github.com/itsmeganga">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=550&lines=Welcome+to+my+GitHub+Profile...;I'm+a+Full+Stack+Developer...;...a+Data+Scientist...;...and+an+AI+%26+Machine+Learning+Enthusiast." alt="Typing SVG" />
 </a>
+<p><i><small>(The text above is an animation, wait to see it type out my different roles!)</small></i></p>
 </div>
 
 <p align="center">
