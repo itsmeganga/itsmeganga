@@ -3,38 +3,39 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Ganga Ramesh :)
+  Hi, I'm Ganga Ramesh 👋
   <a href="https://about-ganga.pages.dev/" target="_blank">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
   </a>
 </h1>
 <p align="center">
-  <a href="https://github.com/GANGAR">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&center=true&width=435&lines=Full+Stack+Developer;Data+Scientist;AI+%26+Machine+Learning+Enthusiast;IoT+Innovator" alt="Typing SVG" />
+  <a href="https://github.com/itsmeganga">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&width=435&lines=Full+Stack+Developer;Data+Scientist;AI+%26+Machine+Learning+Enthusiast;IoT+Innovator" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://about-ganga.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/itsmeganga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ganga-ramesh-527904211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:togangaramesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GANGAR&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GANGAR's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GANGAR&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="GANGAR's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeganga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14&icon_color=39FF14" alt="itsmeganga's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeganga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14" alt="itsmeganga's Top Languages" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a B.Tech Computer Science student from Amrita University with a passion for building reusable, testable, and efficient code[cite: 5, 8]. [cite_start]My goal is to deliver user-centric software solutions by combining my expertise in Full Stack Development with advanced skills in Data Science, Machine Learning, and AI[cite: 4, 5, 6].
+I am a B.Tech Computer Science student from Amrita University with a passion for mastering Full Stack Development while continuously advancing my skills in Data Science and Machine Learning. My focus is on writing reusable, testable, and efficient code to deliver user-centric software solutions.
 
-- 🔭 During my internship at **Specialized Industrial Services Co. LTD. [cite_start](SISCO)**, I triaged high-priority production incidents, reducing Mean Time To Resolution by over 30%[cite: 14, 19].
-- [cite_start]🐍 I developed and deployed **Python/Bash automation scripts** for health checks and log analysis to enhance system stability[cite: 20].
-- [cite_start]🔬 My research experience includes developing a **Deep Learning framework** for adaptive encryption switching in Edge systems and designing an RNN model to adapt based on real-time threats[cite: 26, 27, 29].
-- [cite_start]💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, IoT, Cloud Computing, and Large-scale System Design**[cite: 70, 71].
+- 🎓 Studying **Computer Science and Engineering** at Amrita University, Coimbatore (Sep 2022 - Jun 2026).
+- 🔭 During my internship at **SISCO** [cite: 14][cite_start], I triaged high-priority production incidents, reducing Mean Time To Resolution by over 30%.
+- 🐍 I developed and deployed **Python/Bash automation scripts** for health checks and log analysis to enhance system stability.
+- 🔬 My research experience includes developing a **Deep Learning framework** for adaptive encryption switching in Edge systems and designing an RNN model to adapt based on real-time threats.
+- 💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, IoT, Cloud Computing, and Large-scale System Design**.
 
 ---
 
@@ -69,7 +70,6 @@
   <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
   <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
   <a href="#"><img src="https://img.shields.io/badge/NLTK-30A9E1?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
 </p>
 
 #### Cloud, DevOps & Databases
@@ -78,8 +78,6 @@
   <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
   <a href="#"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/NoSQL-E04E39?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"></a>
 </p>
