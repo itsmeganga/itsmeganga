@@ -64,18 +64,7 @@ This section highlights the key technologies I work with.
 
 ---
 
-### ⏰ My Coding Activity & ♟️ GitHub Chess
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center"><b>My WakaTime Stats</b></p>
-      </td>
-    <td width="50%" valign="top">
-      <p align="center"><b>Play Chess With Me!</b></p>
-      </td>
-  </tr>
-</table>
 
 ---
 
