@@ -1,10 +1,9 @@
-<div align="center">
-<pre>GANGA-RAMESH:~$ ./greet.sh</pre>
-<a href="https://github.com/itsmeganga">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=550&lines=Welcome+to+my+GitHub+Profile...;I'm+a+Full+Stack+Developer...;...a+Data+Scientist...;...and+an+AI+%26+Machine+Learning+Enthusiast." alt="Typing SVG" />
-</a>
-<p><i><small>(The text above is an animation, wait to see it type out my different roles!)</small></i></p>
-</div>
+<h1 align="center">Hi there, I'm Ganga Ramesh 👋</h1>
+<p align="center">
+  <a href="https://github.com/itsmeganga">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=550&lines=Welcome+to+my+GitHub+Profile...;I'm+a+Full+Stack+Developer...;...a+Data+Scientist...;...and+an+AI+%26+Machine+Learning+Enthusiast." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://about-ganga.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
@@ -23,37 +22,65 @@ I am a B.Tech Computer Science student from Amrita University with a passion for
 - 🔬 My research experience includes developing a **Deep Learning framework** for adaptive encryption switching in Edge systems.
 - 💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, IoT, Cloud Computing, and Large-scale System Design**.
 
-<br>
+---
 
-<details align="center">
-  <summary> curious about greet.sh? </summary>
-  <br>
-  <p align="left">
-  Here is the "code" that runs the greeting animation!
-  </p>
-  
-  ```bash
-  #!/bin/bash
+### 🛠️ My Tech Stack
 
-  # ANSI Color Codes
-  GREEN='\033[0;32m'
-  CYAN='\033[0;36m'
-  WHITE='\033[1;37m'
-  NC='\033[0m' # No Color
+This section highlights the key technologies I work with.
 
-  echo -e "${GREEN}Executing greeting protocol... Initialization complete.${NC}"
-  sleep 1
+#### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</p>
 
-  echo -e "\nWelcome to the GitHub profile of ${CYAN}Ganga Ramesh${NC}"
-  echo "------------------------------------------------"
-  echo -e "Loading core competencies..."
-  sleep 0.5
-  echo "[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%"
+#### Web Development & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-  echo -e "\n${WHITE}Core Competencies:${NC}"
-  echo "- Full Stack Developer"
-  echo "- Data Scientist"
-  echo "- AI & Machine Learning Enthusiast"
-  echo "- IoT Innovator"
+#### AI, Data Science & Cloud
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+</p>
 
-  echo -e "\n${GREEN}Status:${NC} Ready for new challenges and collaborations. Feel free to connect!"
+---
+
+### 📊 My Coding Languages
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeganga&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14" alt="itsmeganga's Top Languages" />
+</p>
+
+---
+
+### ⏰ My Coding Activity & ♟️ GitHub Chess
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><b>My WakaTime Stats</b></p>
+      </td>
+    <td width="50%" valign="top">
+      <p align="center"><b>Play Chess With Me!</b></p>
+      </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 My Contribution Graph is a Snake!
+
+<p align="center">
+  <img src="https://github.com/itsmeganga/itsmeganga/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
