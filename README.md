@@ -7,7 +7,7 @@
   ██║░╚═╝░██║███████╗██║░╚███║██║░░██║██║░╚═╝░██║╚██████╔╝╚█████╔╝██║░░██║
   ╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░╚═════╝░░╚════╝░╚═╝░░╚═╝
 </pre>
-<pre>GangaRamesh:~$ ./greet.sh</pre>
+<pre>GANGA-RAMESH:~$ ./greet.sh</pre>
 <a href="https://github.com/itsmeganga">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=550&lines=Welcome+to+my+GitHub+Profile...;I'm+a+Full+Stack+Developer...;...a+Data+Scientist...;...and+an+AI+%26+Machine+Learning+Enthusiast." alt="Typing SVG" />
 </a>
@@ -27,82 +27,40 @@ I am a B.Tech Computer Science student from Amrita University with a passion for
 
 - 🎓 Studying **Computer Science and Engineering** at Amrita University, Coimbatore (Sep 2022 - Jun 2026).
 - 🔭 During my internship at **SISCO**, I triaged high-priority production incidents, reducing Mean Time To Resolution by over 30%.
-- 🐍 I developed and deployed **Python/Bash automation scripts** for health checks and log analysis to enhance system stability.
-- 🔬 My research experience includes developing a **Deep Learning framework** for adaptive encryption switching in Edge systems and designing an RNN model to adapt based on real-time threats.
+- 🔬 My research experience includes developing a **Deep Learning framework** for adaptive encryption switching in Edge systems.
 - 💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, IoT, Cloud Computing, and Large-scale System Design**.
 
----
+<br>
 
-### 🛠️ My Tech Stack
+<details align="center">
+  <summary> curious about greet.sh? </summary>
+  <br>
+  <p align="left">
+  Here is the "code" that runs the greeting animation!
+  </p>
+  
+  ```bash
+  #!/bin/bash
 
-#### Programming Languages
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Embedded C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C"></a>
-</p>
+  # ANSI Color Codes
+  GREEN='\033[0;32m'
+  CYAN='\033[0;36m'
+  WHITE='\033[1;37m'
+  NC='\033[0m' # No Color
 
-#### Web Development, Frameworks & Tools
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-</p>
+  echo -e "${GREEN}Executing greeting protocol... Initialization complete.${NC}"
+  sleep 1
 
-#### AI, Data Science & Machine Learning
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NLTK-30A9E1?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"></a>
-</p>
+  echo -e "\nWelcome to the GitHub profile of ${CYAN}Ganga Ramesh${NC}"
+  echo "------------------------------------------------"
+  echo -e "Loading core competencies..."
+  sleep 0.5
+  echo "[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%"
 
-#### Cloud, DevOps & Databases
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NoSQL-E04E39?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"></a>
-</p>
+  echo -e "\n${WHITE}Core Competencies:${NC}"
+  echo "- Full Stack Developer"
+  echo "- Data Scientist"
+  echo "- AI & Machine Learning Enthusiast"
+  echo "- IoT Innovator"
 
----
-
-### 📊 My Coding Languages
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeganga&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14" alt="itsmeganga's Top Languages" />
-</p>
-
----
-
-### ⏰ My Coding Activity & ♟️ GitHub Chess
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center"><b>My WakaTime Stats</b></p>
-      </td>
-    <td width="50%" valign="top">
-      <p align="center"><b>Play Chess With Me!</b></p>
-      </td>
-  </tr>
-</table>
-
----
-
-### 🐍 My Contribution Graph is a Snake!
-
-<p align="center">
-  <img src="https://github.com/itsmeganga/itsmeganga/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
+  echo -e "\n${GREEN}Status:${NC} Ready for new challenges and collaborations. Feel free to connect!"
