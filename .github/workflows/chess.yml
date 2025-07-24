@@ -15,4 +15,4 @@ jobs:
           BOT: true 
           MOVE: ${{ github.event.comment.body }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ALLOWED_USERS: GANGAR
+          ALLOWED_USERS: itsmeganga
