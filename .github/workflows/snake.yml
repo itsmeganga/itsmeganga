@@ -1,19 +1,32 @@
 name: Generate snake animation
+
 on:
   schedule:
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      # Give the job write permissions to push the new animation file
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Generates the snake animation SVG
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
+
+      # Pushes the generated file to the output branch
       - name: Push to repo
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
