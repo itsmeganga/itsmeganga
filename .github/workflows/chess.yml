@@ -1,32 +1,22 @@
 name: Readme Chess
-
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # Runs when a new comment is made on an issue
+  # This is the main trigger: a new comment on an issue
   issue_comment:
     types: [created]
-
 jobs:
   update-chess:
     runs-on: ubuntu-latest
     permissions:
-      # Give the job permission to write to the repository
+      # Required to update the README
       contents: write
-      # Give the job permission to manage issues
+      # Required to update the issue
       issues: write
-
     steps:
-      # Checks out your repository
       - uses: actions/checkout@v3
-
-      # Runs the readme-chess action
       - uses: gautamkrishnar/readme-chess@v1
         with:
-          # Set to true to play against the computer
           BOT: true 
-          # The move is taken from the issue comment
           MOVE: ${{ github.event.comment.body }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Your username must be here to be allowed to make moves
           ALLOWED_USERS: itsmeganga
