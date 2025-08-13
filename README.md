@@ -44,7 +44,7 @@ Build resilient, low-latency systems that **self-heal**, **scale on demand**, an
 - **Adaptive Encryption for Edge Systems** (Raspberry Pi • ASCON/GIFT • RNN policy)  
   Lightweight cryptography + dynamic model to harden against differential/integral/cube attacks.
 
-> Tip: Pin these repositories to the top of your profile for instant impact.
+
 
 ---
 
