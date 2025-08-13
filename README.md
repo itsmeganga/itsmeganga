@@ -98,7 +98,7 @@
 If you’re working on **distributed systems**, **edge AI**, or **real-time media**, I’d love to collaborate.
 
 - 🌐 Portfolio: https://about-ganga.pages.dev  
-- 💼 LinkedIn: https://www.linkedin.com/in/ganga-ramesh-527904211/  
+- 💼 LinkedIn: www.linkedin.com/in/gangaramesh 
 - 📫 Email: togangaramesh@gmail.com
 
 ---
