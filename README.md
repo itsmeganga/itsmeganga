@@ -1,85 +1,152 @@
-<div align="center">
-<pre>
- █████╗  █████╗ ███╗░░██╗ █████╗  █████╗   ██████╗  █████╗ ███╗   ███╗███████╗ ██████╗     ██╗  ██╗
-██╔═══╝ ██╔══██╗████╗░██║██╔═══╝ ██╔══██╗  ██╔══██╗██╔══██╗████╗ ████║██╔════╝██╔════╝     ██║  ██║
-██║ ███╗███████║██╔██╗██║██║ ███╗███████║  ██████╔╝███████║██╔████╔██║█████╗    ╚█████╗   ███████║
-██║ ╚═██╗██╔══██║██║╚████║██║ ╚═██╗██╔══██║  ██╔══██╗██╔══██║██║╚██╔╝██║██╔══╝  ╚═══██╗     ██║ ██║
-╚██████╔╝██║  ██║██║░╚███║╚██████╔╝██║  ██║  ██║ ╚██╗██║  ██║██║ ╚═╝ ██║███████╗ ███████║   ██║ ██║
- ╚═════╝ ╚══════╝╚═╝░░╚══╝ ╚═════╝ ╚══════╝  ╚═╝  ╚═╝╚══════╝╚══════════╝╚══════╝╚══════╝╚══════╝
-</pre> 
-<pre>Ganga Ramesh:/pre>
- <h1> Hi there, I'm Ganga Ramesh 👋</h1>
+<!-- Profile Banner -->
 <p align="center">
-  <a href="https://github.com/itsmeganga">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&width=550&lines=Welcome+to+my+GitHub+Profile...;I'm+a+Full+Stack+Developer...;...a+Data+Scientist...;...and+an+AI+%26+Machine+Learning+Enthusiast." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Ganga+Ramesh;Site+Reliability+Engineering+%E2%97%8F+Full-Stack+%E2%97%8F+Machine+Learning+%E2%97%8F+IoT;Distributed+Systems+%7C+Edge+AI+%7C+Security+%7C+Cloud+DevOps" alt="Typing SVG" />
 </p>
+
+<h1 align="center">Hi, I'm Ganga 👋</h1>
 
 <p align="center">
-  <a href="https://about-ganga.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/ganga-ramesh-527904211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:togangaramesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://about-ganga.pages.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ganga-ramesh-527904211/">LinkedIn</a> •
+  <a href="mailto:togangaramesh@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a B.Tech Computer Science student from Amrita University with a passion for mastering Full Stack Development while continuously advancing my skills in Data Science and Machine Learning. My focus is on writing reusable, testable, and efficient code to deliver user-centric software solutions.
-
-- 🎓 Studying **Computer Science and Engineering** at Amrita University, Coimbatore (Sep 2022 - Jun 2026).
-- 🔭 During my internship at **SISCO**, I triaged high-priority production incidents, reducing Mean Time To Resolution by over 30%.
-- 🔬 My research experience includes developing a **Deep Learning framework** for adaptive encryption switching in Edge systems.
-- 💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, IoT, Cloud Computing, and Large-scale System Design**.
+### 🧭 Mission
+Build resilient, low-latency systems that **self-heal**, **scale on demand**, and **make data useful** at the edge and in the cloud.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🔥 What I Do
 
-This section highlights the key technologies I work with.
+- **Site Reliability Engineering (SRE):** proactive observability, incident automation, and performance tuning across microservices.
+- **Full-Stack Engineering:** React + Node/Express + Flask, RESTful APIs, and frontends that feel instant.
+- **Machine Learning:** practical CV/NLP with TensorFlow/Keras and MLOps that actually ships.
+- **Embedded/IoT:** FreeRTOS, Spresense, Raspberry Pi; real-time pipelines from sensor to cloud.
+- **Cloud & DevOps:** AWS/GCP/Azure, Docker, CI/CD, Nginx, Prometheus/Grafana.
 
-#### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-</p>
-
-#### Web Development & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-#### AI, Data Science & Cloud
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-</p>
+> Currently exploring: **adaptive encryption for edge devices**, **distributed video comms**, and **SRE runbooks-as-code**.
 
 ---
 
-### 📊 My Coding Languages
+## 🧩 Signature Projects
+
+- **Distributed Video Communication Platform** (Python • Flask • Nginx • DevOps)  
+  Low-latency on-demand streaming + multi-node calls with agent-based load balancing and adaptive bitrate.
+
+- **Sony-SSUP Embedded CPS (Smart Agriculture)** (Embedded C • FreeRTOS • IoT)  
+  Real-time multitasking with mutex-protected queues for robust sensor data handling on Spresense + Daisy Seed.
+
+- **Pneumonia Detection on Chest X-Rays** (TensorFlow • Keras)  
+  Two-stage transfer learning (VGG16 backbone) with strong accuracy and clean evaluation.
+
+- **Adaptive Encryption for Edge Systems** (Raspberry Pi • ASCON/GIFT • RNN policy)  
+  Lightweight cryptography + dynamic model to harden against differential/integral/cube attacks.
+
+> Tip: Pin these repositories to the top of your profile for instant impact.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-05122A?logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?logo=oracle)
+![C](https://img.shields.io/badge/-C-05122A?logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?logo=javascript)
+![Go](https://img.shields.io/badge/-Go-05122A?logo=go)
+![Scala](https://img.shields.io/badge/-Scala-05122A?logo=scala)
+![Prolog](https://img.shields.io/badge/-Prolog-05122A)
+
+**Web & APIs**  
+![React](https://img.shields.io/badge/-React-05122A?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?logo=express)
+![Flask](https://img.shields.io/badge/-Flask-05122A?logo=flask)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?logo=bootstrap)
+
+**ML / Data**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-05122A?logo=keras)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?logo=opencv)
+![NLTK](https://img.shields.io/badge/-NLTK-05122A)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A)
+
+**Cloud / DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-05122A?logo=amazonaws)
+![GCP](https://img.shields.io/badge/-GCP-05122A?logo=googlecloud)
+![Azure](https://img.shields.io/badge/-Azure-05122A?logo=microsoftazure)
+![Docker](https://img.shields.io/badge/-Docker-05122A?logo=docker)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?logo=jenkins)
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?logo=nginx)
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?logo=grafana)
+
+**Data & Versioning**  
+![SQL](https://img.shields.io/badge/-SQL-05122A?logo=postgresql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-05122A?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?logo=github)
+
+---
+
+## 🎓 Certifications
+- AI/ML — IIT Madras (Onsite)
+- IoT Automation with Raspberry Pi — IIT Madras (Onsite)
+- AWS Academy Graduate — Cloud Foundations
+
+---
+
+## 📈 By the Numbers
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeganga&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14" alt="itsmeganga's Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmeganga&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=itsmeganga&theme=transparent" alt="GitHub Streak" />
 </p>
 
----
-
-
-
----
-
-### 🐍 My Contribution Graph is a Snake!
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeganga&layout=compact&langs_count=8&hide=css,html&theme=transparent" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/itsmeganga/itsmeganga/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmeganga&theme=flat&no-frame=true&margin-w=10&row=1" alt="Trophies" />
+</p>
+
+<!-- Optional activity graph (enable if you like) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeganga&theme=github-compact&radius=10" alt="Activity Graph" />
+</p>
+-->
+
+---
+
+## 🧪 SRE / Engineering Toolkit
+
+- **Observability:** actionable alerts, log/trace correlation, SLOs/SLIs that reflect user pain.
+- **Resilience:** graceful degradation, circuit breaking, backpressure, chaos drills.
+- **Release engineering:** blue/green, canaries, feature flags, error budgets.
+- **Security at the edge:** lightweight cryptography (ASCON/GIFT) + adaptive policies.
+- **Data pipelines:** streaming ingestion + model serving with sensible latency budgets.
+
+---
+
+## 🤝 Let’s Build
+If you’re working on **distributed systems**, **edge AI**, or **real-time media**, I’d love to collaborate.
+
+- 🌐 Portfolio: https://about-ganga.pages.dev  
+- 💼 LinkedIn: https://www.linkedin.com/in/ganga-ramesh-527904211/  
+- 📫 Email: togangaramesh@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmeganga&style=flat" alt="Profile views" />
 </p>
