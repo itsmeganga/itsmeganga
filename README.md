@@ -1,4 +1,4 @@
-<!-- Profile Banner -->
+  <!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Ganga+Ramesh;Site+Reliability+Engineering+%E2%97%8F+Full-Stack+%E2%97%8F+Machine+Learning+%E2%97%8F+IoT;Distributed+Systems+%7C+Edge+AI+%7C+Security+%7C+Cloud+DevOps" alt="Typing SVG" />
 </p>
@@ -84,26 +84,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=itsmeganga&theme=flat&no-frame=true&margin-w=10&row=1" alt="Trophies" />
 </p>
 
-<!-- Optional activity graph (enable if you like) -->
-<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeganga&theme=github-compact&radius=10" alt="Activity Graph" />
 </p>
--->
+
 
 ---
 
-## 🧪 SRE / Engineering Toolkit
-
-- **Observability:** actionable alerts, log/trace correlation, SLOs/SLIs that reflect user pain.
-- **Resilience:** graceful degradation, circuit breaking, backpressure, chaos drills.
-- **Release engineering:** blue/green, canaries, feature flags, error budgets.
-- **Security at the edge:** lightweight cryptography (ASCON/GIFT) + adaptive policies.
-- **Data pipelines:** streaming ingestion + model serving with sensible latency budgets.
 
 ---
 
-## 🤝 Let’s Build
+## Let’s Build
 If you’re working on **distributed systems**, **edge AI**, or **real-time media**, I’d love to collaborate.
 
 - 🌐 Portfolio: https://about-ganga.pages.dev  
