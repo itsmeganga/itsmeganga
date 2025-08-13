@@ -13,42 +13,7 @@
 
 ---
 
-### 🧭 Mission
-Build resilient, low-latency systems that **self-heal**, **scale on demand**, and **make data useful** at the edge and in the cloud.
-
----
-
-## 🔥 What I Do
-
-- **Site Reliability Engineering (SRE):** proactive observability, incident automation, and performance tuning across microservices.
-- **Full-Stack Engineering:** React + Node/Express + Flask, RESTful APIs, and frontends that feel instant.
-- **Machine Learning:** practical CV/NLP with TensorFlow/Keras and MLOps that actually ships.
-- **Embedded/IoT:** FreeRTOS, Spresense, Raspberry Pi; real-time pipelines from sensor to cloud.
-- **Cloud & DevOps:** AWS/GCP/Azure, Docker, CI/CD, Nginx, Prometheus/Grafana.
-
-> Currently exploring: **adaptive encryption for edge devices**, **distributed video comms**, and **SRE runbooks-as-code**.
-
----
-
-## 🧩 Signature Projects
-
-- **Distributed Video Communication Platform** (Python • Flask • Nginx • DevOps)  
-  Low-latency on-demand streaming + multi-node calls with agent-based load balancing and adaptive bitrate.
-
-- **Sony-SSUP Embedded CPS (Smart Agriculture)** (Embedded C • FreeRTOS • IoT)  
-  Real-time multitasking with mutex-protected queues for robust sensor data handling on Spresense + Daisy Seed.
-
-- **Pneumonia Detection on Chest X-Rays** (TensorFlow • Keras)  
-  Two-stage transfer learning (VGG16 backbone) with strong accuracy and clean evaluation.
-
-- **Adaptive Encryption for Edge Systems** (Raspberry Pi • ASCON/GIFT • RNN policy)  
-  Lightweight cryptography + dynamic model to harden against differential/integral/cube attacks.
-
-
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-05122A?logo=python)
