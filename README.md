@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Ganga+Ramesh;Site+Reliability+Engineering+%E2%97%8F+Full-Stack+%E2%97%8F+Machine+Learning+%E2%97%8F+IoT;Distributed+Systems+%7C+Edge+AI+%7C+Security+%7C+Cloud+DevOps" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Ganga 👋</h1>
+<h1 align="center">Hi, I'm Ganga Ramesh</h1>
 
 <p align="center">
   <a href="https://about-ganga.pages.dev">Portfolio</a> •
